@@ -31,6 +31,7 @@ header{
 	width: 100%;
 	background: rgba(39,39,39,0.51);
 	position: absolute;
+	z-index: 10;
 }
 .headr-main{
 	display: flex;
